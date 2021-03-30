@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Will Rogers
 
+I'm a senior at The University of North Carolina at Chapel Hill studying Computer Science and Public Policy. I am expierienced with QA automation, DevOps, and entry level software development. I have a passion for learning and I enjoy all things relating to technology.
+
+I am expected to graduate in May 2021 and I am looking for opportunities in the field of software development, AI, automation, machine learning, data science, and business intelligence.
 
 - 🔭 I’m currently developing a personal portfolio website with React.
 - 🌱 I’m currently learning AI and machine learning Techniques.
