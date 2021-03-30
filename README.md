@@ -28,10 +28,10 @@
 </p>
 ## :trophy: My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=WSrogers98&count_private=true&show_icons=true">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=WSRogers98&count_private=true&show_icons=true" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=WSRogers98&hide=php&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=WSRogers98&hide=php">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=WSRogers98&hide=php" />
 </a>
 </div>
