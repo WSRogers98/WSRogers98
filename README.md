@@ -8,7 +8,7 @@ I am expected to graduate in May 2021 and I am looking for opportunities in the 
 - 🌱 I’m currently learning AI and machine learning Techniques.
 - 💬 Ask me Anything!
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play DPS for UNC's Overwatch Team.
+- ⚡ Fun fact: I played for UNC's Overwatch Team.
 
 ## ✉️ Find me on:
 
