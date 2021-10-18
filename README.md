@@ -2,7 +2,7 @@
 
 I'm a graduate from The University of North Carolina at Chapel Hill studying Computer Science and Public Policy. I am expierienced with automation, DevOps, and software development. I have a passion for learning and I enjoy all things relating to technology.
 
-- 🔭 I’m currently developing an algorithmic trading bot.
+- 🔭 I’m currently working at Allstate.
 - 🌱 I’m currently learning AI and machine learning Techniques.
 - 💬 Ask me Anything!
 - 😄 Pronouns: He/Him.
