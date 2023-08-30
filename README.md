@@ -30,15 +30,15 @@ I'm a graduate from The University of North Carolina at Chapel Hill studying Com
 
 ## :trophy: My Github Stats:
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WSRogers98&layout=compact&langs_count=10)](https://github.com/WSRogers98/github-readme-stats)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WSRogers98&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)    
 ![Will's github stats](https://github-readme-stats.vercel.app/api?username=WSRogers98&show_icons=true)
 -->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=WSRogers98&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=WSRogers98&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WSRogers98&layout=compact&langs_count=10)">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSRogers98&layout=compact&langs_count=10)" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WSRogers98&layout=compact&langs_count=12)">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsrogers98&show_icons=true&locale=en&layout=donut-vertical&hide=TeX" alt="wsrogers98" />
 </a>
 </div>
 
